@@ -36,7 +36,7 @@ A planilha de simulação de FIIs permite ao usuário:
     * Uso de formatação condicional para destacar informações-chave (ex: metas atingidas, desvios).
     * Listas suspensas e validação de dados para garantir a integridade das entradas do usuário.
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * **Microsoft Excel:** Principal ferramenta para o desenvolvimento da planilha e dos cálculos.
 
